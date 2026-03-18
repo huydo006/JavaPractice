@@ -1,0 +1,10 @@
+# Bỏ qua file biên dịch
+*.class
+
+# Bỏ qua thư mục build
+/bin/
+/target/
+
+# Bỏ qua file IDE
+*.iml
+.idea/
